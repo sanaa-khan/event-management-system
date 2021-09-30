@@ -41,3 +41,6 @@ Some of the following instructions are specific to IntelliJ, as that was what we
 - In the src file main.java, provide your database details (name, username, password) in the function **setMySQL()** and give your email address and password in the function **setEmailDetails().**
 
 - Run project and enjoy :)
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
