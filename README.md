@@ -2,7 +2,7 @@
 A complete desktop app for event management, designed to automate user registration, event booking/cancellation, payment and employee management. Built using Java and MySQL.
 
 ## Collaborators
-This project was developed as a group, with equal contribution from all. My group members were [Hassan Shahzad](https://github.com/HxnDev), [Abeera Fatima](https://github.com/ninjacarrot) and [Azka Khurram](https://github.com/AzkaKhurram).
+This project was developed as a group, with equal contribution from all. My group members were [HxnDev](https://github.com/HxnDev), [ninjacarrot](https://github.com/ninjacarrot) and [azkakhurram61](https://github.com/AzkaKhurram).
 
 ## Required Tools
 - Any Java IDE e.g. IntelliJ, Eclipse, NetBeans etcetera (IntelliJ recommended - any edition will do, community ediion is free.)
