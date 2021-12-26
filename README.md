@@ -1,6 +1,8 @@
 # Event Management System
 A complete desktop app for event management, designed to automate user registration, event booking/cancellation, payment and employee management. Built using Java and MySQL.
 
+![](https://github.com/sanaa-khan/event-management-system/blob/main/interfaces/Main%20Screen.png)
+
 ## Collaborators
 This project was developed as a group, with equal contribution from all. My group members were [HxnDev](https://github.com/HxnDev), [ninjacarrot](https://github.com/ninjacarrot) and [azkakhurram61](https://github.com/AzkaKhurram).
 
