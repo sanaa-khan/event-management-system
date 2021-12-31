@@ -4,7 +4,10 @@ A complete desktop app for event management, designed to automate user registrat
 ![](https://github.com/sanaa-khan/event-management-system/blob/main/interfaces/Main%20Screen.png)
 
 ## Collaborators
-This project was developed as a group, with equal contribution from all. My group members were [HxnDev](https://github.com/HxnDev), [ninjacarrot](https://github.com/ninjacarrot) and [azkakhurram61](https://github.com/AzkaKhurram).
+Project was done in a group, with equal contribution from all. My group members were [HxnDev](https://github.com/HxnDev), [abeeraf](https://github.com/abeeraf) and [AzkaKhurram](https://github.com/AzkaKhurram).
+
+### My Contribution
+I developed the backend - setting up and populating the database, connecting the classes to database records, managing the actions and events of the GUI and integrating the backend with the frontend.
 
 ## Required Tools
 - Any Java IDE e.g. IntelliJ, Eclipse, NetBeans etcetera (IntelliJ recommended - any edition will do, community ediion is free.)
